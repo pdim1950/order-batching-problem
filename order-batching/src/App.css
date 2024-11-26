@@ -1,0 +1,28 @@
+.warehouse {
+  display: table;
+  margin: auto;
+  min-width: max-content;
+}
+
+.row {
+  display: table-row;
+}
+
+.product {
+  height: 5vh;
+  width: 5vh;
+  border-style: solid;
+  background-color: #e4c515;
+  display: table-cell;
+}
+
+.aisle {
+  height: 5vh;
+  width: 5vh;
+  background-color: #f5e7d7;
+  display: table-cell;
+}
+
+.parameters {
+  margin: auto;
+}

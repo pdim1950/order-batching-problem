@@ -1,0 +1,61 @@
+.warehouse {
+    display: table;
+    margin: auto;
+    min-width: max-content;
+}
+
+.row {
+    display: table-row;
+}
+
+
+.container {
+    display: block;
+    margin-left: 102px;
+    padding: 20px;
+}
+
+
+
+.child {
+    margin: 0 auto;
+    width: 23%;
+    float: left;
+    padding: 20px;
+}
+
+#next {
+    margin: auto
+  }
+
+#result_t{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+#select {
+    display: block;
+    margin: 0 auto;
+}
+
+.product {
+    height: 6vh;
+    width: 2vh;
+    border-style: solid;
+    border-color: #b49d1a;
+    background-color: #f7d61f;
+    display: table-cell;
+  }
+
+.aisle {
+    visibility: hidden;
+    height: 6vh;
+    width: 2vh;
+    background-color: #f5e7d7;
+    display: table-cell;
+}
+
+.parameters {
+    margin: auto;
+}
